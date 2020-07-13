@@ -13,5 +13,5 @@ I am Sahil Chachra, currently pursuing major in Computer Science. I love Data Sc
 #### 🔭 I’m currently working on:
 #### Deep Learning, Competitive Programming
 
-##### 😄 Thanks for stopping by. Suggestions on repositories are welcomed!
+##### :raised_hands: Thanks for stopping by! 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=SahilChachra.visitor-badge)](https://github.com/SahilChachra)
