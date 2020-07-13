@@ -1,7 +1,8 @@
 ### Hola! 👋
 I am Sahil Chachra, currently pursuing major in Computer Science. I love Data Science and playing CS GO :joy:
 
-### 📲Connect with me here ![LinkedIn](https://www.linkedin.com/in/sahil-chachra/)
+### 📲Connect with me here
+<a href="https://www.linkedin.com/in/sahil-chachra"> LinkedIn </a>
 
 ### 💻Tech Stack:
 #### Python, C++, Java, Machine Learning, Keras.
