@@ -1,5 +1,5 @@
 ### Hola! 👋
-I am Sahil Chachra, currently pursuing major in Computer Science. I love Data Science and playing CS GO :joy:
+I am Sahil Chachra, currently pursuing major in Computer Science.
 
 ### 📲Connect with me here
 <a href="https://www.linkedin.com/in/sahil-chachra"> LinkedIn </a>
