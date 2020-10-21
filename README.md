@@ -1,6 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-## 👋 &nbsp;Hey there! I'm Aditya
+## 👋 &nbsp;Hey there! I'm Sahil Chachra
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -9,7 +7,7 @@
 🌱 &nbsp;I'm currently working in Deep Learning.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
