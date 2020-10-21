@@ -2,9 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently pursuing B.Tech in Computer Science.\
-🌱 &nbsp;I'm currently working in Deep Learning.\
+🌱 &nbsp;I'm learning and working with Deep Learning projects.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 
 <img alt="Night Coding" src="https://github.com/SahilChachra/SahilChachra/blob/master/assets/Night-Coding.gif" align="right"/>
