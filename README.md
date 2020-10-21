@@ -6,7 +6,7 @@
 🌱 &nbsp;I'm learning and working with Deep Learning projects.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 
-<img alt="Night Coding" src="https://github.com/SahilChachra/SahilChachra/blob/master/assets/Night-Coding.gif" align="right"/>
+<!--<img alt="Night Coding" src="https://github.com/SahilChachra/SahilChachra/blob/master/assets/Night-Coding.gif" align="right"/>-->
 
 ### 🛠 &nbsp;Tech Stack
 
