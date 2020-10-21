@@ -12,5 +12,5 @@ I am Sahil Chachra, currently pursuing major in Computer Science.
 
 #### 🔭 I’m currently working on:
 #### Deep Learning, Competitive Programming
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=SahilChachra&count_private=true&show_icons=true&theme=gradient)
+![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=SahilChachra&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilChachra&layout=compact)](https://github.com/SahilChachra/github-readme-stats)
