@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm currently working in Deep Learning.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 
-<img alt="Night Coding" src="" align="right"/>
+<img alt="Night Coding" src="https://github.com/SahilChachra/SahilChachra/blob/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,7 +30,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sahil-chachra/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/sahilcodes/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/sahil-chachra/"><img src="https://img.shields.io/badge/-Sahil%Chachra%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/sahilcodes/"><img src="https://img.shields.io/badge/-@sahilcodes-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
