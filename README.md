@@ -30,6 +30,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sahil-chachra/"><img src="https://img.shields.io/badge/-Sahil%Chachra-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/sahilcodes/"><img src="https://img.shields.io/badge/-@sahilcodes-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sahil-chachra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/sahilcodes/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
