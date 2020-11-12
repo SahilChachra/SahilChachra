@@ -4,7 +4,7 @@
 
 🎓 &nbsp;I'm currently pursuing B.Tech in Computer Science.\
 🌱 &nbsp;I'm learning and working with Deep Learning projects.\
-💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.
+💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.
 
 <!--<img alt="Night Coding" src="https://github.com/SahilChachra/SahilChachra/blob/master/assets/Night-Coding.gif" align="right"/>-->
 
