@@ -2,6 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+💻 &nbsp;I'm currently working as an AI Intern in Data Annotation Studio, Autonomous Vehicle Strategic Initiative, TCS.
+💻 &nbsp;Former Intern at Regional Remote Sensing Center, ISRO.
 🎓 &nbsp;I'm currently in my final year of B.Tech in Computer Science.\
 🌱 &nbsp;I'm learning and working in the field of Deep Learning.\
 💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.
