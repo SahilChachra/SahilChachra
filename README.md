@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;.\
+💻 &nbsp;Deep Learning Engineer at Data Annotation Studio, Autonomous Vehicle Strategic Initiative, TCS.\
 💻 &nbsp;Former Intern at Regional Remote Sensing Centre, ISRO.\
 🎓 &nbsp;I'm currently in my final year of B.Tech in Computer Science.\
 🌱 &nbsp;I'm learning and working in the field of Deep Learning.\
