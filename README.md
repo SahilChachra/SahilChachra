@@ -4,8 +4,8 @@
 
 💻 &nbsp;Deep Learning Engineer at Data Annotation Studio, Autonomous Vehicle Strategic Initiative, TCS.\
 💻 &nbsp;Former Intern at Regional Remote Sensing Centre, ISRO.\
-🎓 &nbsp;I completed my Bachelors of Technology in Computer Sciene & Engineering in 2021.\
-🌱 &nbsp;I'm Deep Learning mainly focusing on computer vision.\
+🎓 &nbsp;Completed my Bachelors of Technology in Computer Sciene & Engineering in 2021.\
+🌱 &nbsp;Working in the field of deep learning mainly focusing on computer vision.\
 💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.
 
 <!--<img alt="Night Coding" src="https://github.com/SahilChachra/SahilChachra/blob/master/assets/Night-Coding.gif" align="right"/>-->
