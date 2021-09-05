@@ -18,14 +18,13 @@
   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a><img src="https://developer.nvidia.com/blog/wp-content/uploads/2018/11/NV_TensorRT_Visual_2C_RGB-625x625-1.png" alt="tenosrrt" widht="40" height="40"/></a>
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" widht="40" height="40"/></a>
 </p>
 
 ### 📕 &nbsp;Medium Articles
 <ul>
   <li><a href="https://sahilchachra.medium.com/setting-up-nvidias-jetson-nano-from-jetpack-to-yolov5-60a004bf48bc">Setting up Nvidia’s Jetson Nano : From Jetpack to YoloV5</a></li>
-  <li><a href="https://sahilchachra.medium.com/comparative-study-using-efficientnetb0-to-efficientnetb7-as-encoder-in-unet-a73ec6aeffe8"Comparative study — Using EfficientNetB0 to EfficientNetB7 as encoder in UNet</a></li>
+  <li><a href="https://sahilchachra.medium.com/comparative-study-using-efficientnetb0-to-efficientnetb7-as-encoder-in-unet-a73ec6aeffe8">Comparative study — Using EfficientNetB0 to EfficientNetB7 as encoder in UNet</a></li>
   <li><a href="https://sahilchachra.medium.com/vanilla-unet-vs-unet-with-efficientnetb0-as-encoder-55495edd2ceb">Vanilla UNet vs UNet with EfficientNetB0 as Encoder</a></li>
 </ul>
 
