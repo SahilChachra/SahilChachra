@@ -26,6 +26,8 @@
   <li><a href="https://sahilchachra.medium.com/setting-up-nvidias-jetson-nano-from-jetpack-to-yolov5-60a004bf48bc">Setting up Nvidia’s Jetson Nano : From Jetpack to YoloV5</a></li>
   <li><a href="https://sahilchachra.medium.com/comparative-study-using-efficientnetb0-to-efficientnetb7-as-encoder-in-unet-a73ec6aeffe8">Comparative study — Using EfficientNetB0 to EfficientNetB7 as encoder in UNet</a></li>
   <li><a href="https://sahilchachra.medium.com/vanilla-unet-vs-unet-with-efficientnetb0-as-encoder-55495edd2ceb">Vanilla UNet vs UNet with EfficientNetB0 as Encoder</a></li>
+  <li><a href="https://sahilchachra.medium.com/run-yolov5s-with-tensorrt-and-deepstream-on-nvidia-jetson-nano-8c888a2f0eae">Run YoloV5s with TensorRT and DeepStream on Nvidia Jetson Nano
+</a></li>
 </ul>
 
 ### ⚙️ &nbsp;GitHub Analytics
