@@ -29,6 +29,7 @@
   <li><a href="https://sahilchachra.medium.com/run-yolov5s-with-tensorrt-and-deepstream-on-nvidia-jetson-nano-8c888a2f0eae">Run YoloV5s with TensorRT and DeepStream on Nvidia Jetson Nano
 </a></li>
    <li><a href="https://sahilchachra.medium.com/paper-summary-decoupled-weight-decay-regularization-1583cbc855bd">Paper summary — Decoupled Weight Decay Regularization</a></li>
+   <li><a href="https://sahilchachra.medium.com/paper-summary-what-is-being-transferred-in-transfer-learning-250dc7a9d127">Paper Summary — What is being transferred in transfer learning?</a></li>
 </ul>
 
 ### ⚙️ &nbsp;GitHub Analytics
