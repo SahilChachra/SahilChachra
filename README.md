@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;Deep Learning Engineer at Data Annotation Studio, Autonomous Vehicle Strategic Initiative, TCS.\
+💻 &nbsp;Deep Learning Engineer at Data Annotation Studio, Connected Autonous Shared Electric (CASE), TCS.\
 💻 &nbsp;Former Intern at Regional Remote Sensing Centre, ISRO.\
 🎓 &nbsp;Completed my Bachelors of Technology in Computer Science & Engineering in 2021.\
 🌱 &nbsp;Working in the field of deep learning mainly focusing on computer vision.\
