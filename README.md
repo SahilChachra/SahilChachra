@@ -31,6 +31,7 @@
    <li><a href="https://sahilchachra.medium.com/paper-summary-decoupled-weight-decay-regularization-1583cbc855bd">Paper summary — Decoupled Weight Decay Regularization</a></li>
    <li><a href="https://sahilchachra.medium.com/paper-summary-what-is-being-transferred-in-transfer-learning-250dc7a9d127">Paper Summary — What is being transferred in transfer learning?</a></li>
   <li><a href="https://sahilchachra.medium.com/paper-summary-torch-manual-seed-3407-is-all-you-need-9ef0f7aa7d78">Paper Summary — torch.manual_seed(3407) is all you need</a></li>
+  <li><a href="https://sahilchachra.medium.com/paper-summary-metaformer-is-actually-what-you-need-for-vision-b6f172482604">Paper Summary — MetaFormer is Actually What You Need for Vision</a></li>
 </ul>
 
 ### ⚙️ &nbsp;GitHub Analytics
