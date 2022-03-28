@@ -50,5 +50,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sahil-chachra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://sahilchachra.medium.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="40" height="40"/> </a> 
+[<img alt="SahilChachra | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sahil-chachra/)
+<a href="https://sahilchachra.medium.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="40" height="40"/> </a>
+[<img alt="SahilChachra | Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://sahilchachra.medium.com/)
 </p>
