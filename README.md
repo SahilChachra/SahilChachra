@@ -10,7 +10,7 @@
 
 <!--<img alt="Night Coding" src="https://github.com/SahilChachra/SahilChachra/blob/master/assets/Night-Coding.gif" align="right"/>-->
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 [<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />]()
 [<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />]()
 [<img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />]()
