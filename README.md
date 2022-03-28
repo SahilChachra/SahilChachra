@@ -51,6 +51,5 @@
 <p align="center">
 
 [<img alt="SahilChachra | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sahil-chachra/)
-
 [<img alt="SahilChachra | Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://sahilchachra.medium.com/)
 </p>
