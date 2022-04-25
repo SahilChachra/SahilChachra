@@ -36,6 +36,7 @@
   <li><a href="https://sahilchachra.medium.com/paper-summary-metaformer-is-actually-what-you-need-for-vision-b6f172482604">Paper Summary — MetaFormer is Actually What You Need for Vision</a></li>
    <li><a href="https://sahilchachra.medium.com/dive-into-basics-of-gpu-cuda-accelerated-programming-using-numba-in-python-a0be21aa00b7">Dive into basics of GPU, CUDA & Accelerated programming using Numba in Python</a></li>
   <li><a href="https://sahilchachra.medium.com/video-analytics-dashboard-for-yolov5-and-deepsort-c5994461cb44">Video Analytics Dashboard for YoloV5 and DeepSort</a></li>
+  <li><a href="https://sahilchachra.medium.com/intel-openvino-in-brief-14a6905f5593">Intel OpenVINO in brief</a></li>
 </ul>
 
 ### ⚙️ &nbsp;GitHub Analytics
