@@ -41,6 +41,12 @@
 </a></li>
 </ul>
 
+### :rocket: &nbsp;OpenSource Contribution
+</a></li>
+   <li><a href="https://github.com/ultralytics/yolov3/pull/1928">Fix ONNX inference code</a></li>
+   li><a href="https://github.com/ultralytics/yolov5/pull/8046">Fix FP32 TensorRT model export</a></li>
+</ul>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
