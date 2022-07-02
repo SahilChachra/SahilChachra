@@ -39,6 +39,7 @@
   <li><a href="https://sahilchachra.medium.com/intel-openvino-in-brief-14a6905f5593">Intel OpenVINO in brief</a></li>
   <li><a href="https://sahilchachra.medium.com/all-you-want-to-get-started-with-gstreamer-in-python-2276d9ed548e">All you want, to get started with GStreamer in Python
 </a></li>
+<li><a href="https://medium.com/mlearning-ai/paper-summary-searching-for-trionet-6ec2d3b56593">Paper Summary — Searching for TrioNet</a></li>
 </ul>
 
 ### :rocket: &nbsp;OpenSource Contribution
