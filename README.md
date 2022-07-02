@@ -23,6 +23,12 @@
 [<img alt="DeepStream" src="https://img.shields.io/badge/DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
 [<img alt="Jetson" src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
 
+### :rocket: &nbsp;OpenSource Contribution
+<ul>
+   <li><a href="https://github.com/ultralytics/yolov3/pull/1928">Ultralytics/Yolov3 - Fix ONNX inference code</a></li>
+   <li><a href="https://github.com/ultralytics/yolov5/pull/8046">Ultralytics/Yolov5 - Fix FP32 TensorRT model export</a></li>
+</ul>
+
 ### 📕 &nbsp;Medium Articles
 <ul>
   <li><a href="https://sahilchachra.medium.com/comparative-study-using-efficientnetb0-to-efficientnetb7-as-encoder-in-unet-a73ec6aeffe8">Comparative study — Using EfficientNetB0 to EfficientNetB7 as encoder in UNet</a></li>
@@ -40,12 +46,6 @@
   <li><a href="https://sahilchachra.medium.com/all-you-want-to-get-started-with-gstreamer-in-python-2276d9ed548e">All you want, to get started with GStreamer in Python
 </a></li>
 <li><a href="https://medium.com/mlearning-ai/paper-summary-searching-for-trionet-6ec2d3b56593">Paper Summary — Searching for TrioNet</a></li>
-</ul>
-
-### :rocket: &nbsp;OpenSource Contribution
-<ul>
-   <li><a href="https://github.com/ultralytics/yolov3/pull/1928">Ultralytics/Yolov3 - Fix ONNX inference code</a></li>
-   <li><a href="https://github.com/ultralytics/yolov5/pull/8046">Ultralytics/Yolov5 - Fix FP32 TensorRT model export</a></li>
 </ul>
 
 ### ⚙️ &nbsp;GitHub Analytics
