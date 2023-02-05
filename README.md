@@ -2,7 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;Deep Learning Engineer at Data Annotation Studio, Smart Mobility, TCS.\
+💻 &nbsp; AI Engineer at SparkCognition
+💻 &nbsp;Former Deep Learning Engineer at Data Annotation Studio, Smart Mobility, TCS.\
 💻 &nbsp;Former Intern at Regional Remote Sensing Centre, ISRO.\
 🎓 &nbsp;Completed my Bachelors of Technology in Computer Science & Engineering in 2021.\
 🌱 &nbsp;Working in the field of Deep learning and Computer vision.\
