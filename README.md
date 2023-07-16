@@ -47,6 +47,7 @@
   <li><a href="https://sahilchachra.medium.com/all-you-want-to-get-started-with-gstreamer-in-python-2276d9ed548e">All you want, to get started with GStreamer in Python
 </a></li>
 <li><a href="https://medium.com/mlearning-ai/paper-summary-searching-for-trionet-6ec2d3b56593">Paper Summary — Searching for TrioNet</a></li>
+<li><a href="https://medium.com/@sahilchachra/paper-summary-efficient-long-range-attention-network-elan-6361a190be28">Paper Summary — Efficient Long Range Attention Network (ELAN)</a></li>
 </ul>
 
 ### ⚙️ &nbsp;GitHub Analytics
