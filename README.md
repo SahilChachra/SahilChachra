@@ -48,6 +48,9 @@
 </a></li>
 <li><a href="https://medium.com/mlearning-ai/paper-summary-searching-for-trionet-6ec2d3b56593">Paper Summary — Searching for TrioNet</a></li>
 <li><a href="https://medium.com/@sahilchachra/paper-summary-efficient-long-range-attention-network-elan-6361a190be28">Paper Summary — Efficient Long Range Attention Network (ELAN)</a></li>
+<li><a href="https://sahilchachra.medium.com/paper-summary-repvgg-making-vgg-style-convnets-great-again-5a166dded651">Paper Summary — RepVGG : Making VGG-style ConvNets Great Again</a></li>
+<li><a href="https://sahilchachra.medium.com/paper-summary-shufflenetv2-practical-guidelines-for-efficient-cnn-architecture-design-6de835c4c8cb">Paper Summary — ShuffleNetv2 : Practical Guidelines for Efficient CNN Architecture Design</a></li>
+<li><a href="https://sahilchachra.medium.com/paper-summary-deep-leakage-from-gradients-c5a67ce65a4f">Paper Summary — Deep Leakage from Gradients</a></li>
 </ul>
 
 ### ⚙️ &nbsp;GitHub Analytics
