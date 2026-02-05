@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💻 &nbsp;Founding AI Engineer @ Stealth (Optimising Factory Setups) \
-💻 &nbsp;Former Senior AI Engineer at Avathon. \
-💻 &nbsp;Former Deep Learning Engineer at Data Annotation Studio, Smart Mobility, TCS.\
+💻 &nbsp;Former Senior AI Engineer at Avathon (Worked on Computer Vision usecases for Health & Safety and Retail). \
+💻 &nbsp;Former Deep Learning Engineer at Data Annotation Studio, Smart Mobility, TCS (Worked on automating data pipelines powered by AI).\
 💻 &nbsp;Former Intern at Regional Remote Sensing Centre, ISRO.\
 🎓 &nbsp;Completed my Bachelors of Technology in Computer Science & Engineering in 2021.\
 🌱 &nbsp;Working in the field of AI - Language & Vision.\
