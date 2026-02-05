@@ -15,15 +15,14 @@
 ### Languages and Tools
 [<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />]()
 [<img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />]()
-[<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />]()
-[<img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />]()
 [<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />]()
-[<img alt="Onnx" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />]()
-[<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />]()
 [<img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
-[<img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
 [<img alt="DeepStream" src="https://img.shields.io/badge/DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
-[<img alt="Jetson" src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
+[<img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-✨%20Text%20%7C%20Code%20%7C%20Vision-8E44AD?style=for-the-badge" />]()
+[<img alt="Transformers" src="https://img.shields.io/badge/Transformers-🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />]()
+[<img alt="RAG" src="https://img.shields.io/badge/RAG-📚%20Retrieval%20Augmented%20Gen-1ABC9C?style=for-the-badge" />]()
+[<img alt="AI Safety" src="https://img.shields.io/badge/AI%20Safety-🛡️%20Alignment%20Matters-34495E?style=for-the-badge" />]()
+[<img alt="AGI Curious" src="https://img.shields.io/badge/AGI-👀%20Watching%20Closely-000000?style=for-the-badge" />]()
 
 ### :rocket: &nbsp;OpenSource Contribution
 <ul>
