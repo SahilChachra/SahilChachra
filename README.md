@@ -2,13 +2,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;Founding AI Engineer @ Stealth (Optimising Factory Setups) \
-💻 &nbsp;Former Senior AI Engineer at Avathon (Worked on Computer Vision usecases for Health & Safety and Retail). \
-💻 &nbsp;Former Deep Learning Engineer at Data Annotation Studio, Smart Mobility, TCS (Worked on automating data pipelines).\
-💻 &nbsp;Former Intern at Regional Remote Sensing Centre, ISRO.\
-🎓 &nbsp;Completed my Bachelors of Technology in Computer Science & Engineering in 2021.\
-🌱 &nbsp;Working in the field of AI - Language & Vision.\
-💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.
+💻 &nbsp;AI Architect @ BLUE — building a real-time multi-camera VLM pipeline for warehouse and retail vision analytics. \
+💻 &nbsp;Former Founding AI Engineer @ Stealth — designed a 27-agent orchestration framework and multi-stage document enrichment pipeline for AI-powered factory floor planning. \
+💻 &nbsp;Former Senior AI Engineer at Avathon — scaled a CV platform to 600+ cameras across enterprise deployments, and introduced LLM + VLM layers to a purely CV stack. \
+💻 &nbsp;Former Deep Learning Engineer at TCS — shipped CV models for Smart Mobility and automotive data pipelines. \
+💻 &nbsp;Former Intern at Regional Remote Sensing Centre, ISRO. \
+🎓 &nbsp;B.Tech in Computer Science & Engineering, 2021. \
+🌱 &nbsp;Working across LLMs, VLMs, multi-agent systems, and on-device inference. \
+🤗 &nbsp;Publishing open-source MLX-quantized LLMs on HuggingFace — making frontier models runnable locally on Apple Silicon.\
+💬 &nbsp;Feel free to reach out for projects, collabs, or just an interesting discussion.
 
 <!--<img alt="Night Coding" src="https://github.com/SahilChachra/SahilChachra/blob/master/assets/Night-Coding.gif" align="right"/>-->
 
