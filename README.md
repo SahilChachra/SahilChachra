@@ -2,15 +2,18 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;AI Architect @ BLUE — building a real-time multi-camera VLM pipeline for warehouse and retail vision analytics. \
-💻 &nbsp;Former Founding AI Engineer @ Stealth — designed a 27-agent orchestration framework and multi-stage document enrichment pipeline for AI-powered factory floor planning. \
-💻 &nbsp;Former Senior AI Engineer at Avathon — scaled a CV platform to 600+ cameras across enterprise deployments, and introduced LLM + VLM layers to a purely CV stack. \
-💻 &nbsp;Former Deep Learning Engineer at TCS — shipped CV models for Smart Mobility and automotive data pipelines. \
-💻 &nbsp;Former Intern at Regional Remote Sensing Centre, ISRO. \
+🔭 &nbsp;**AI Architect @ BLUE** — building a real-time, multi-camera VLM pipeline for warehouse & retail vision analytics. \
+🧠 &nbsp;I work across **LLMs, VLMs, multi-agent systems, and on-device inference** — taking models from research to production at the edge. \
+🤗 &nbsp;Publishing open-source **MLX-quantized LLMs** on HuggingFace, making frontier models runnable locally on Apple Silicon. \
+\
+**Previously:** \
+💻 &nbsp;Founding AI Engineer @ Stealth — a 27-agent orchestration framework + multi-stage document enrichment pipeline for AI-powered factory floor planning. \
+💻 &nbsp;Senior AI Engineer @ Avathon — scaled a CV platform to 600+ cameras across enterprise deployments, and added LLM + VLM layers to a pure-CV stack. \
+💻 &nbsp;Deep Learning Engineer @ TCS — shipped CV models for Smart Mobility & automotive data pipelines. \
+🛰️ &nbsp;Started out interning at ISRO's Regional Remote Sensing Centre. \
 🎓 &nbsp;B.Tech in Computer Science & Engineering, 2021. \
-🌱 &nbsp;Working across LLMs, VLMs, multi-agent systems, and on-device inference. \
-🤗 &nbsp;Publishing open-source MLX-quantized LLMs on HuggingFace — making frontier models runnable locally on Apple Silicon.\
-💬 &nbsp;Feel free to reach out for projects, collabs, or just an interesting discussion.
+\
+💬 &nbsp;Reach out for projects, collabs, or just an interesting discussion.
 
 <!--<img alt="Night Coding" src="https://github.com/SahilChachra/SahilChachra/blob/master/assets/Night-Coding.gif" align="right"/>-->
 
@@ -26,37 +29,43 @@
 [<img alt="AI Safety" src="https://img.shields.io/badge/AI%20Safety-🛡️%20Alignment%20Matters-34495E?style=for-the-badge" />]()
 [<img alt="AGI Curious" src="https://img.shields.io/badge/AGI-👀%20Watching%20Closely-000000?style=for-the-badge" />]()
 
-### :rocket: &nbsp;OpenSource Contribution
+### 🚀 &nbsp;OpenSource Contribution
 <ul>
+   <li><a href="https://github.com/ml-explore/mlx-lm/pull/1298">ml-explore/mlx-lm - Add sanitize method to Granite model for tied embeddings</a></li>
    <li><a href="https://github.com/ultralytics/yolov3/pull/1928">Ultralytics/Yolov3 - Fix ONNX inference code</a></li>
    <li><a href="https://github.com/ultralytics/yolov5/pull/8046">Ultralytics/Yolov5 - Fix FP32 TensorRT model export</a></li>
 </ul>
 
-### 📕 &nbsp;Medium Articles
+### 🤗 &nbsp;HuggingFace Models
+<a href="https://huggingface.co/sahilchachra">23 MLX-quantized & uncensored LLMs</a> — making frontier models runnable locally on Apple Silicon.
 <ul>
-  <li><a href="https://sahilchachra.medium.com/comparative-study-using-efficientnetb0-to-efficientnetb7-as-encoder-in-unet-a73ec6aeffe8">Comparative study — Using EfficientNetB0 to EfficientNetB7 as encoder in UNet</a></li>
-  <li><a href="https://sahilchachra.medium.com/vanilla-unet-vs-unet-with-efficientnetb0-as-encoder-55495edd2ceb">Vanilla UNet vs UNet with EfficientNetB0 as Encoder</a></li>
-   <li><a href="https://sahilchachra.medium.com/setting-up-nvidias-jetson-nano-from-jetpack-to-yolov5-60a004bf48bc">Setting up Nvidia’s Jetson Nano : From Jetpack to YoloV5</a></li>
-  <li><a href="https://sahilchachra.medium.com/run-yolov5s-with-tensorrt-and-deepstream-on-nvidia-jetson-nano-8c888a2f0eae">Run YoloV5s with TensorRT and DeepStream on Nvidia Jetson Nano
-</a></li>
-   <li><a href="https://sahilchachra.medium.com/paper-summary-decoupled-weight-decay-regularization-1583cbc855bd">Paper summary — Decoupled Weight Decay Regularization</a></li>
-   <li><a href="https://sahilchachra.medium.com/paper-summary-what-is-being-transferred-in-transfer-learning-250dc7a9d127">Paper Summary — What is being transferred in transfer learning?</a></li>
-  <li><a href="https://sahilchachra.medium.com/paper-summary-torch-manual-seed-3407-is-all-you-need-9ef0f7aa7d78">Paper Summary — torch.manual_seed(3407) is all you need</a></li>
-  <li><a href="https://sahilchachra.medium.com/paper-summary-metaformer-is-actually-what-you-need-for-vision-b6f172482604">Paper Summary — MetaFormer is Actually What You Need for Vision</a></li>
-   <li><a href="https://sahilchachra.medium.com/dive-into-basics-of-gpu-cuda-accelerated-programming-using-numba-in-python-a0be21aa00b7">Dive into basics of GPU, CUDA & Accelerated programming using Numba in Python</a></li>
-  <li><a href="https://sahilchachra.medium.com/video-analytics-dashboard-for-yolov5-and-deepsort-c5994461cb44">Video Analytics Dashboard for YoloV5 and DeepSort</a></li>
-  <li><a href="https://sahilchachra.medium.com/intel-openvino-in-brief-14a6905f5593">Intel OpenVINO in brief</a></li>
-  <li><a href="https://sahilchachra.medium.com/all-you-want-to-get-started-with-gstreamer-in-python-2276d9ed548e">All you want, to get started with GStreamer in Python
-</a></li>
-<li><a href="https://medium.com/mlearning-ai/paper-summary-searching-for-trionet-6ec2d3b56593">Paper Summary — Searching for TrioNet</a></li>
-<li><a href="https://medium.com/@sahilchachra/paper-summary-efficient-long-range-attention-network-elan-6361a190be28">Paper Summary — Efficient Long Range Attention Network (ELAN)</a></li>
-<li><a href="https://sahilchachra.medium.com/paper-summary-repvgg-making-vgg-style-convnets-great-again-5a166dded651">Paper Summary — RepVGG : Making VGG-style ConvNets Great Again</a></li>
-<li><a href="https://sahilchachra.medium.com/paper-summary-shufflenetv2-practical-guidelines-for-efficient-cnn-architecture-design-6de835c4c8cb">Paper Summary — ShuffleNetv2 : Practical Guidelines for Efficient CNN Architecture Design</a></li>
-<li><a href="https://sahilchachra.medium.com/paper-summary-deep-leakage-from-gradients-c5a67ce65a4f">Paper Summary — Deep Leakage from Gradients</a></li>
-<li><a href="https://medium.com/@sahilchachra/common-questions-while-working-with-large-language-models-eac051fbf392">Common questions while working with Large Language Models</a></li>
-<li><a href="https://medium.com/@sahilchachra/merged-fine-tuned-a-case-study-on-qwen3-and-domain-fusion-192ffcdef6aa">Merged > Fine-Tuned? A Case Study on Qwen3 and Domain Fusion</a></li>
-<li><a href="https://medium.com/@sahilchachra/fine-tuning-llms-for-refusal-221db650bb83">Fine-Tuning LLMs for Refusal</a></li>
+  <li><a href="https://huggingface.co/sahilchachra/MiniCPM5-1B-Uncensored">MiniCPM5-1B-Uncensored</a></li>
+  <li><a href="https://huggingface.co/sahilchachra/LFM2.5-8B-A1B-Uncensored">LFM2.5-8B-A1B-Uncensored</a></li>
+  <li><a href="https://huggingface.co/sahilchachra/mellum2-12b-a2_5b-thinking-optiq-5bpw-mlx">mellum2-12b-a2_5b-thinking-optiq-5bpw-mlx</a></li>
+  <li><a href="https://huggingface.co/sahilchachra/locateanything-3b-mxfp4-mlx">locateanything-3b-mxfp4-mlx</a></li>
+  <li><a href="https://huggingface.co/sahilchachra/granite-4.1-8b-mxfp4-mlx">granite-4.1-8b-mxfp4-mlx</a> (MLX quants of the model I contributed Granite tied-embedding support for in <a href="https://github.com/ml-explore/mlx-lm/pull/1298">mlx-lm</a>)</li>
+  <li>… <a href="https://huggingface.co/sahilchachra">see all 23 models →</a></li>
 </ul>
+
+### 📕 &nbsp;Writing
+A few favorites — <a href="https://sahilchachra.medium.com/">full archive on Medium</a>.
+
+**LLMs & Fine-Tuning**
+- [Merged > Fine-Tuned? A Case Study on Qwen3 and Domain Fusion](https://medium.com/@sahilchachra/merged-fine-tuned-a-case-study-on-qwen3-and-domain-fusion-192ffcdef6aa)
+- [Fine-Tuning LLMs for Refusal](https://medium.com/@sahilchachra/fine-tuning-llms-for-refusal-221db650bb83)
+- [Common Questions While Working with Large Language Models](https://medium.com/@sahilchachra/common-questions-while-working-with-large-language-models-eac051fbf392)
+
+**Edge AI & Deployment**
+- [Run YoloV5s with TensorRT and DeepStream on Nvidia Jetson Nano](https://sahilchachra.medium.com/run-yolov5s-with-tensorrt-and-deepstream-on-nvidia-jetson-nano-8c888a2f0eae)
+- [GPU, CUDA & Accelerated Programming using Numba in Python](https://sahilchachra.medium.com/dive-into-basics-of-gpu-cuda-accelerated-programming-using-numba-in-python-a0be21aa00b7)
+- [Getting Started with GStreamer in Python](https://sahilchachra.medium.com/all-you-want-to-get-started-with-gstreamer-in-python-2276d9ed548e)
+
+**Paper Summaries**
+- [torch.manual_seed(3407) is all you need](https://sahilchachra.medium.com/paper-summary-torch-manual-seed-3407-is-all-you-need-9ef0f7aa7d78)
+- [MetaFormer is Actually What You Need for Vision](https://sahilchachra.medium.com/paper-summary-metaformer-is-actually-what-you-need-for-vision-b6f172482604)
+- [RepVGG: Making VGG-style ConvNets Great Again](https://sahilchachra.medium.com/paper-summary-repvgg-making-vgg-style-convnets-great-again-5a166dded651)
+
+→ [Read all my articles on Medium](https://sahilchachra.medium.com/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -71,6 +80,7 @@
 [<img alt="MacOs" src="https://img.shields.io/badge/MacOS-f0f0f0?logo=apple&logoColor=black&style=for-the-badge" />]()
 [<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />]()
 [<img alt="Macbook Air" src="https://img.shields.io/badge/MacBook%20Air-M4-eeeeee?style=for-the-badge&logo=apple&logoColor=white" />]()
+[<img alt="Macbook Pro" src="https://img.shields.io/badge/MacBook%20Pro-M5%20Pro-eeeeee?style=for-the-badge&logo=apple&logoColor=white" />]()
 [<img alt="Server" src="https://img.shields.io/badge/Server-Mac%20mini%20M4%20Pro-eeeeee?style=for-the-badge&logo=apple&logoColor=white" />]()
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -80,5 +90,6 @@
 [<img alt="SahilChachra | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sahil-chachra/)
 [<img alt="SahilChachra | Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://sahilchachra.medium.com/)
 [<img alt="ChachraSahil | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ChachraSahil)
+[<img alt="sahilchachra | Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />](https://huggingface.co/sahilchachra)
   
 </p>
